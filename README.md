@@ -3,4 +3,4 @@
 💻 Tech and Photography enthusiast.
 
 My social media handles :
-[Instagram](https://www.instagram.com/yash_chittora_/)      [Facebook](https://www.facebook.com/yash.chittora.58)       
+[Instagram](https://www.instagram.com/yash_chittora_/)      [Facebook](https://www.facebook.com/yash.chittora.58)       [Twitter](https://twitter.com/ChittoraYash)
