@@ -51,7 +51,7 @@ style=" fill:#000000;"><linearGradient id="HjBUFHyNtcsDcBgnZBZ2Sa_0OQR1FYCuA9f_g
 </a> 
 <!-- -- -->
 <a class="icon" href="https://www.mozilla.org/en-US/firefox/developer/"><svg width="42" height="44" version="1.1" viewBox="0 0 77.51 79.99" xmlns="http://www.w3.org/2000/svg">
-<title>Firefox Developer Edition logo</title>
+
  <defs>
   <linearGradient id="f" x1="84.16" x2="91.02" y1="-3.604" y2="41.14" gradientTransform="matrix(.6885 0 0 1.452 -1.253 -.004086)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#AAF2FF" offset="0"/>
