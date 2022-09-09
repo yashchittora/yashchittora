@@ -1,12 +1,4 @@
-<style>
-    .icon{
-        padding-right : 10px;
-    }
 
-    li{
-        list-style : None;
-    }
-</style>
 
 
 <h1 align="center">Hi 👋, I'm Yash Chittora</h1>
