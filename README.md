@@ -18,11 +18,17 @@
 # 🖥️ Skills:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
+<br></br>
+
 # 🕶️ Tools
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com) [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![Safari](https://img.shields.io/badge/Safari-black?style=for-the-badge&logo=safari&logoColor=white)](https://www.apple.com/safari/) [![Firefox](https://img.shields.io/badge/-Firefox%20Dev-purple?style=for-the-badge&logo=firefox)](https://www.mozilla.org/en-US/firefox/developer/) [![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.torproject.org) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com) 	[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md)
 
+<br></br>
+
 # 💾 Operating Systems 
 [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macos/monterey/) [![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/) [![Android](https://img.shields.io/badge/Android-darkgreen?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/en_in/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
+
+<br></br>
 
 # ⌨️ Gear
 [![MacBook Air](https://img.shields.io/badge/apple%20macbook%20air-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-air-m1/) [![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/newsroom/2020/11/apple-unleashes-m1/)
