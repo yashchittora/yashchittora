@@ -33,8 +33,12 @@
 # ⌨️ Gear
 [![MacBook Air](https://img.shields.io/badge/apple%20macbook%20air-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-air-m1/) [![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/newsroom/2020/11/apple-unleashes-m1/)
 
-<!-- # 😊 Support
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](link) [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](link) -->
+<br></br>
+
+# 😊 Support
+<!-- [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](link) [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](link) -->
+
+<a href="https://www.buymeacoffee.com/yashchittora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 
