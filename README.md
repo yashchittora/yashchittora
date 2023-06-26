@@ -1,8 +1,9 @@
 # ✨ Hey , I'm Yash Chittora 
 - 📘 I'm an first year engineering student 
+- 📜 IIT Kharagpur Certified C Programmer
 - 💻 I'm a tech enthusiast since my childhood 
 - 📷 I love photography too
-- ✏️  I'm currently learning C
+
 
 ![](https://github-readme-stats.vercel.app/api?username=YASHCHITTORA&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YASHCHITTORA&theme=highcontrast&hide_border=true)<br/>
