@@ -1,6 +1,6 @@
 # ✨ Hey , I'm Yash Chittora 
-- 📘 I'm an first year engineering student 
-- 📜 IIT Kharagpur Certified C Programmer
+- 📘 I'm an first year engineering student
+- 📜 IIT Kharagpur Certified C Programmer [Show Certificate](https://internalapp.nptel.ac.in/noc/Ecertificate/q=NPTEL23CS53S4485026204329915)
 - 💻 I'm a tech enthusiast since my childhood 
 - 📷 I love photography too
 
