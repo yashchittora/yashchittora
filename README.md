@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Student, Self-Learner and Flutter Developer from India.</h3>
 
 - 📘 I'm an engineering student
+- 🎗️Red Hat Certified System Administrator [Show Credential](https://www.credly.com/badges/12a55214-aa39-4d18-b80e-1f6a54716f3d/public_url)
 - 📜 IIT Kharagpur Certified C Programmer [Show Certificate](https://drive.google.com/drive/folders/1RM-w0_KpdXG78XqdRqV-voJhIVfKerjg?usp=sharing)
 - 📜 IIT Madras Certified Python Programmer [Show Certificate](https://drive.google.com/drive/folders/1RM-w0_KpdXG78XqdRqV-voJhIVfKerjg?usp=sharing)
 - 💻 I'm a tech enthusiast since my childhood
